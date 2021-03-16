@@ -1,0 +1,16 @@
+Ingreso la palabra: telefonia
+Resultado: 
+La vocal a aparece: 1 veces 
+La vocal e aparece: 2 veces 
+La vocal i aparece: 1 veces 
+La vocal o aparece: 1 veces 
+La vocal u aparece: 0 veces 
+
+Ingreso la palabra: murcielago
+Resultado: 
+La vocal a aparece: 1 veces 
+La vocal e aparece: 1 veces 
+La vocal i aparece: 1 veces 
+La vocal o aparece: 1 veces 
+La vocal u aparece: 1 veces 
+
