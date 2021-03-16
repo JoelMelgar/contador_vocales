@@ -22,3 +22,11 @@ La vocal i aparece: 0 veces
 La vocal o aparece: 1 veces 
 La vocal u aparece: 0 veces 
 
+Ingreso la palabra: contador
+Resultado: 
+La vocal a aparece: 1 veces 
+La vocal e aparece: 0 veces 
+La vocal i aparece: 0 veces 
+La vocal o aparece: 2 veces 
+La vocal u aparece: 0 veces 
+
