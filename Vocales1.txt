@@ -14,3 +14,11 @@ La vocal i aparece: 1 veces
 La vocal o aparece: 1 veces 
 La vocal u aparece: 1 veces 
 
+Ingreso la palabra: vocal
+Resultado: 
+La vocal a aparece: 1 veces 
+La vocal e aparece: 0 veces 
+La vocal i aparece: 0 veces 
+La vocal o aparece: 1 veces 
+La vocal u aparece: 0 veces 
+
